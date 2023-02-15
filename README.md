@@ -1,5 +1,7 @@
 # 🚩 Trello API Postman Collection
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 ### This Postman collection provides a set of API requests for interacting with Trello boards, lists, and cards. This collection generates dynamic variables for names and includes tests to ensure data accuracy and response status code.
 
 ### The collection includes the following requests:
