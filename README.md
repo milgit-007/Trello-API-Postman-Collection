@@ -2,7 +2,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### This Postman collection provides a set of API requests for interacting with Trello boards, lists, and cards. This collection generates dynamic variables for names and includes tests to ensure data accuracy and response status code.
+#### ➡️ This Postman collection provides a set of API requests for interacting with Trello boards, lists, and cards. This collection generates dynamic variables for names and includes tests to ensure data accuracy and response status code.
 
 ### The collection includes the following requests:
 
@@ -25,3 +25,5 @@
 🔸 Delete card - deletes a card on one list.
 
 🔸 Delete board - deletes a specific board and all of its associated lists and cards.
+
+#### ➡️ To use this Postman collection, you will need a Trello account and an API key and token. Once you have these, import the collection into Postman and set up the necessary collection variables for authentication (key and token). You can then execute the requests in the order listed above.
