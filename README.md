@@ -1,6 +1,6 @@
 # 🚩 Trello API Postman Collection
 
-### This Postman collection provides a set of API requests for interacting with Trello boards, lists, and cards. 
+### This Postman collection provides a set of API requests for interacting with Trello boards, lists, and cards. This collection generates dynamic variables for names and includes tests to ensure data accuracy and response status code.
 
 ### The collection includes the following requests:
 
